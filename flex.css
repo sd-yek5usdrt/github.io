@@ -1,0 +1,39 @@
+.menu{
+display: flex;
+justify-content: space-evenly;
+}
+
+.header-row{
+display: flex;
+align-items: center;
+}
+
+.header-logo{
+display: flex;
+align-items: center;
+flex-grow: 1;
+}
+
+.logo-img{
+margin-left: 40px;
+}
+
+.header-menu{
+flex-grow: 3;
+}
+
+.cards-row{
+display:flex;
+justify-content: space-around;
+}
+
+.footer-row{
+display:flex;
+justify-content: space-around;
+}
+
+.footer-logo{
+margin: 10px;
+width: 60px;
+height: 60px;
+}
